@@ -1,0 +1,9 @@
+{
+  "name": "yield-farming-rewards",
+  "version": "1.0.0",
+  "description": "Pro-rata staking rewards distributor",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
